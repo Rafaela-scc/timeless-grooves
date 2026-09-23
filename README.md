@@ -1,4 +1,4 @@
-# Retro-Hits 🎶🎸
+# Timeless Grooves 🎶🎸
 
 ## 🎯 Overview
 **Retro-Hits** is a web project dedicated to music lovers of past decades. It showcases the most popular songs from different eras and explores how music has impacted society over the years. The application also features a subscription form on the final page for users who want to receive updates from the music world.
