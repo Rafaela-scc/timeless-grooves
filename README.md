@@ -1,7 +1,12 @@
-# Projeto Retro-Hits 🎶​🎸​​
-### Objetivo:
-Esse projeto foi feito para os amantes de músicas antigas, ele mostra as músicas mais populares de cada década e como a música empactou a sociedade ao longo dos anos. Na última página do formulário tem um pequeno formulário para as pessoas que tiverem interessadas em receber atualizações do mundo da música.
-### Ferramentas e como foi feito:
-Ele foi feito em HTML para a estrutura e em CSS para o visual. Os banners e os cartazes foram feitos por mim também. 
-### Quando ele foi feito:
-Esse projeto foi feito no segundo semestre de 2025 no curso que eu fiz de introução a HTML e CSS
+# Retro-Hits 🎶🎸
+
+## 🎯 Overview
+**Retro-Hits** is a web project dedicated to music lovers of past decades. It showcases the most popular songs from different eras and explores how music has impacted society over the years. The application also features a subscription form on the final page for users who want to receive updates from the music world.
+
+## 🛠️ Tech Stack & Implementation
+* **HTML5:** Semantic structure and layout.
+* **CSS3:** Styling, visual identity, and responsive design.
+* **Design Assets:** Custom banners and posters designed from scratch.
+
+## 📅 Timeline & Context
+Developed in the **second semester of 2025** as part of an introductory HTML and CSS course.
